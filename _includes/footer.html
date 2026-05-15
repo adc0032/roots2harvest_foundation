@@ -1,0 +1,28 @@
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">Copyright &copy; Roots2Harvest Foundation {{ 'now' | date: "%Y" }}</span>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline quicklinks">
+                    <li><span style="color:#777;">501(c)(3) Nonprofit Organization</span></li>
+                    <li><a href="mailto:info@roots2harvestfoundation.org">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row" style="margin-top:10px;">
+            <div class="col-lg-12 text-center">
+                <p style="font-size:0.8em; color:#aaa;">Birmingham, Alabama &bull; Serving the Southeast &bull; No earnings inure to the benefit of any private individual.</p>
+            </div>
+        </div>
+    </div>
+</footer>
