@@ -1,0 +1,53 @@
+url: https://www.roots2harvestfoundation.org
+baseurl: ""
+
+# Site settings
+title: Roots2Harvest Foundation
+email: info@roots2harvestfoundation.org
+description: "Roots2Harvest Foundation reconnects Birmingham communities to the land through agricultural education and community-based participatory research, building food sovereignty and health sovereignty from the ground up."
+
+# Team names, titles and social links
+people:
+- name: Dr. Amanda D. Clark
+  pic: 1
+  position: Founder & Executive Director
+  social:
+    - title: linkedin
+      url: "#"
+    - title: instagram
+      url: "#"
+
+- name: Quinton Harvill
+  pic: 2
+  position: Innovation & Operations Development Officer
+  social:
+    - title: linkedin
+      url: "#"
+    - title: instagram
+      url: "#"
+
+- name: Grace Wettstone
+  pic: 3
+  position: Community Engagement & Wellness Officer
+  social:
+    - title: linkedin
+      url: "#"
+    - title: instagram
+      url: "#"
+
+# Social networks
+social:
+  - title: instagram
+    url: "#"
+  - title: facebook
+    url: "#"
+
+# Postal address
+address:
+  - line: 1450 Forestdale Blvd
+  - line: Unit 310036
+  - line: Birmingham, AL 35214
+
+# Build settings
+markdown: kramdown
+permalink: pretty
