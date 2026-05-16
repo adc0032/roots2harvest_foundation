@@ -13,22 +13,22 @@ people:
   position: Founder & Executive Director
   social:
     - title: linkedin
-      url: "#"
+      url: "https://www.linkedin.com/in/adcbio/"
     - title: instagram
-      url: "#"
+      url: "https://www.instagram.com/dramandacphd/"
 
-- name: Quinton Harvill
+- name: Grace Wettstone
   pic: 2
-  position: Innovation & Operations Development Officer
+  position: Community Engagement & Wellness Officer
   social:
     - title: linkedin
       url: "#"
     - title: instagram
       url: "#"
 
-- name: Grace Wettstone
+- name: Quinton Harvill
   pic: 3
-  position: Community Engagement & Wellness Officer
+  position: Innovation & Operations Development Officer
   social:
     - title: linkedin
       url: "#"
@@ -38,7 +38,7 @@ people:
 # Social networks
 social:
   - title: instagram
-    url: "#"
+    url: "https://www.instagram.com/roots2harvest_foundation/"
   - title: facebook
     url: "#"
 
